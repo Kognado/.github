@@ -9,6 +9,8 @@ quien la usa todos los días, y si esa persona la adopta, la operación entera g
 
 - **Regere** — ERP modular que empieza en el piso de planta y cubre la operación completa de la empresa.
 - **Fidelia** — plataforma de operación financiera para instituciones que administran inversiones.
+- **Ducere** *(en desarrollo)* — gestión escolar: alumnos, calificaciones, personal y cumplimiento.
+- **Sanilo** *(en desarrollo)* — expediente clínico electrónico, del consultorio de un solo médico al hospital.
 
 ## Servicios
 
